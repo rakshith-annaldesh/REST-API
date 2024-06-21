@@ -1,0 +1,1 @@
+I've created a customized RESTful API using Node.js with Express, MongoDB for database management, and Mongoose for data modeling. I tested the API endpoints using Postman for validation and troubleshooting.
